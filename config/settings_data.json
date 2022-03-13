@@ -140,12 +140,20 @@
           "slide-0": {
             "type": "image",
             "settings": {
+<<<<<<< HEAD
               "show_overlay": false,
               "overlay_opacity": 100,
               "text_color": "#a60707",
+=======
+              "image": "shopify:\/\/shop_images\/brs2.png",
+              "mobile_image": "shopify:\/\/shop_images\/brs.png",
+              "show_overlay": true,
+              "overlay_opacity": 55,
+              "text_color": "#792424",
+>>>>>>> b8e89a99a1e5689b088275820a06a76762922c5c
               "title": "",
-              "content": "",
-              "content_position": "middle_center",
+              "content": "Artigos Hardcore, Auto defesa, Simbolo e Sigilos das artes sagradas.",
+              "content_position": "bottom_center",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
@@ -154,6 +162,7 @@
           },
           "22a1c760-f50b-4b7b-8969-3e56f6c6219a": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "show_overlay": false,
               "overlay_opacity": 30,
@@ -349,7 +358,6 @@
           },
           "text-with-icons-1": {
             "type": "item",
-            "disabled": true,
             "settings": {
               "icon": "bi-returns",
               "title": "Cliente Satisfeito ou Reembolso Imediato",
@@ -358,7 +366,6 @@
           },
           "text-with-icons-2": {
             "type": "item",
-            "disabled": true,
             "settings": {
               "icon": "bi-customer-support",
               "title": "Suporte ao Cliente",
@@ -367,7 +374,6 @@
           },
           "text-with-icons-3": {
             "type": "item",
-            "disabled": true,
             "settings": {
               "icon": "bi-secure-payment",
               "title": "Pagamento Seguro",
@@ -417,7 +423,7 @@
         "type": "featured-collection",
         "settings": {
           "collection": "frontpage",
-          "title": "Em Destaque",
+          "title": "Mais Vendidos",
           "products_count": 39,
           "layout": "vertical",
           "stack_desktop": false,
@@ -548,33 +554,27 @@
       },
       "16256632635ec0715a": {
         "type": "offers",
+        "disabled": true,
         "blocks": {
           "1625663263ec0c105a-0": {
             "type": "offer",
             "settings": {
               "title": "Cleusa Maria - ⭐⭐⭐⭐⭐",
-              "content": "<p style='background-color:tomato;' >\"Foi minha primeira compra na internet. Adorei o site vou sempre comprar aqui.\"<\/p>"
+              "content": "<p>\"Foi minha primeira compra na internet. Adorei o site vou sempre comprar aqui.\"<\/p>"
             }
           },
           "1625663263ec0c105a-1": {
             "type": "offer",
             "settings": {
               "title": "Carla Andrade - ⭐⭐⭐⭐⭐",
-              "content": "<p style='background-color:tomato;' >Excelente atendimento, suporte sempre prestativo para resolver as minhas dúvidas com o produto.<\/p>"
+              "content": "<p>Excelente atendimento, suporte sempre prestativo para resolver as minhas dúvidas com o produto.<\/p>"
             }
           },
           "b03b9f4e-971a-4300-bc0f-f71178423b55": {
             "type": "offer",
             "settings": {
               "title": "Andre Siqueira - ⭐⭐⭐⭐⭐",
-              "content": "<p style='background-color:tomato;' >O produto de fato cumpre tudo o que promete, já recomendei para vários amigos e eles compraram também.<\/p>"
-            }
-          },
-          "971a-4300-bc0f-f71178423b55-b03b9f4e": {
-            "type": "offer",
-            "settings": {
-              "title": "Luciana Machado - ⭐⭐⭐⭐",
-              "content": "<p style='background-color:tomato;' >Show de Bola, Chegou tudo ok.<\/p>"
+              "content": "<p>O produto de fato cumpre tudo o que promete, já recomendei para vários amigos e eles compraram também.<\/p>"
             }
           }
         },
