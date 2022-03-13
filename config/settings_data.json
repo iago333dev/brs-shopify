@@ -140,13 +140,14 @@
           "slide-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/brs2.png",
               "mobile_image": "shopify:\/\/shop_images\/brs.png",
               "show_overlay": true,
               "overlay_opacity": 55,
-              "text_color": "#ffffff",
+              "text_color": "#792424",
               "title": "",
-              "content": "",
-              "content_position": "middle_center",
+              "content": "Artigos Hardcore, Auto defesa, Simbolo e Sigilos das artes sagradas.",
+              "content_position": "bottom_center",
               "button_background": "#ffffff",
               "button_text_color": "#000000",
               "button_text": "",
@@ -155,6 +156,7 @@
           },
           "22a1c760-f50b-4b7b-8969-3e56f6c6219a": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "show_overlay": false,
               "overlay_opacity": 30,
@@ -415,7 +417,7 @@
         "type": "featured-collection",
         "settings": {
           "collection": "frontpage",
-          "title": "Em Destaque",
+          "title": "Mais Vendidos",
           "products_count": 39,
           "layout": "vertical",
           "stack_desktop": false,
