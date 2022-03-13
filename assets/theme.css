@@ -3764,8 +3764,6 @@ img.lazyload[data-sizes=auto] {
   border-top: 1px solid var(--border-color);
   border-bottom: 1px solid var(--border-color);
   z-index: 1; /* This is needed to create a new stacking context to improve performance on iOS */
-  background-color: rgba(255, 255, 255, .15);  
-  backdrop-filter: blur(5px);
 }
 
 .product-list .flickity-viewport {
@@ -10195,6 +10193,7 @@ select::-ms-expand {
 }
 
 .section__title {
+  color: white;
   margin-bottom: 0;
 }
 
