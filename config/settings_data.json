@@ -76,7 +76,6 @@
         "type": "header",
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/imagem_2021-06-30_141329.png",
           "logo_max_width": 220,
           "mobile_logo_max_width": 170,
           "show_locale_selector": false,
@@ -138,7 +137,6 @@
           "slide-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/imagem_2021-07-01_100310.png",
               "show_overlay": false,
               "overlay_opacity": 100,
               "text_color": "#ffffff",
@@ -154,7 +152,6 @@
           "22a1c760-f50b-4b7b-8969-3e56f6c6219a": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/imagem_2021-07-01_095841.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -413,10 +410,10 @@
       "16256618918b232551": {
         "type": "featured-collection",
         "settings": {
-          "collection": "diversos",
+          "collection": "frontpage",
           "title": "Em Destaque",
-          "products_count": 12,
-          "layout": "vertical",
+          "products_count": 39,
+          "layout": "horizontal",
           "stack_desktop": false,
           "show_quick_buy": false,
           "link_title": "Ver Todos",
@@ -425,6 +422,7 @@
       },
       "1625662211e0dca3a8": {
         "type": "collection-list",
+        "disabled": true,
         "blocks": {
           "1625662211e0dca3a8-0": {
             "type": "collection",
@@ -460,18 +458,18 @@
         "settings": {
           "title": "Categorias",
           "link_title": "Ver mais",
-          "link": "shopify:\/\/collections",
+          "link": "shopify:\/\/collections\/frontpage",
           "round_images": false,
           "show_collection_title": false
         }
       },
       "16256631031c55974a": {
         "type": "slideshow",
+        "disabled": true,
         "blocks": {
           "16256631031c55974a-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/imagem_2021-07-01_100656.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -487,7 +485,6 @@
           "16256631031c55974a-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/imagem_2021-07-01_100736.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -531,8 +528,9 @@
       },
       "162576327016e00c35": {
         "type": "featured-collection",
+        "disabled": true,
         "settings": {
-          "collection": "diversos",
+          "collection": "frontpage",
           "title": "Em Destaque",
           "products_count": 12,
           "layout": "vertical",
