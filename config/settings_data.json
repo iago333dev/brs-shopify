@@ -97,12 +97,14 @@
         "blocks": {
           "footer-1": {
             "type": "links",
+            "disabled": true,
             "settings": {
               "menu": "footer"
             }
           },
           "1598060184149": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "Dúvidas? FALE CONOSCO!",
               "content": "<p>+55 00 90000-0000<\/p><p>suporte@loja.com<\/p>"
@@ -110,6 +112,7 @@
           },
           "footer-2": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "title": "RECEBA NOSSAS PROMOÇÕES",
               "subheading": "<p>Assine com seu e-mail abaixo:<\/p>"
@@ -123,7 +126,7 @@
         ],
         "settings": {
           "show_social_media": false,
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_locale_selector": false,
           "show_currency_selector": false,
           "show_cookie_bar": false,
@@ -346,6 +349,7 @@
           },
           "text-with-icons-1": {
             "type": "item",
+            "disabled": true,
             "settings": {
               "icon": "bi-returns",
               "title": "Cliente Satisfeito ou Reembolso Imediato",
@@ -354,6 +358,7 @@
           },
           "text-with-icons-2": {
             "type": "item",
+            "disabled": true,
             "settings": {
               "icon": "bi-customer-support",
               "title": "Suporte ao Cliente",
@@ -362,6 +367,7 @@
           },
           "text-with-icons-3": {
             "type": "item",
+            "disabled": true,
             "settings": {
               "icon": "bi-secure-payment",
               "title": "Pagamento Seguro",
@@ -413,7 +419,7 @@
           "collection": "frontpage",
           "title": "Em Destaque",
           "products_count": 39,
-          "layout": "horizontal",
+          "layout": "vertical",
           "stack_desktop": false,
           "show_quick_buy": false,
           "link_title": "Ver Todos",
