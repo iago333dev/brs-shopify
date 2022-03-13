@@ -10635,7 +10635,10 @@ select::-ms-expand {
 
 .text-with-icons__title {
   margin-bottom: 4px;
+  color: white;
 }
+
+/*text-with-icons__title text--strong*/
 
 .text-with-icons__icon-wrapper {
   margin-bottom: 15px;
