@@ -1,7 +1,7 @@
 {
   "current": {
     "heading_color": "#000000",
-    "text_color": "#ffffff",
+    "text_color": "#a60707",
     "accent_color": "#a60707",
     "link_color": "#a60707",
     "border_color": "#dfe4e6",
@@ -142,7 +142,7 @@
             "settings": {
               "show_overlay": false,
               "overlay_opacity": 100,
-              "text_color": "#ffffff",
+              "text_color": "#a60707",
               "title": "",
               "content": "",
               "content_position": "middle_center",
