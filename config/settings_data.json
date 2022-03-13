@@ -553,21 +553,28 @@
             "type": "offer",
             "settings": {
               "title": "Cleusa Maria - ⭐⭐⭐⭐⭐",
-              "content": "<p>\"Foi minha primeira compra na internet. Adorei o site vou sempre comprar aqui.\"<\/p>"
+              "content": "<p style='background-color:tomato;' >\"Foi minha primeira compra na internet. Adorei o site vou sempre comprar aqui.\"<\/p>"
             }
           },
           "1625663263ec0c105a-1": {
             "type": "offer",
             "settings": {
               "title": "Carla Andrade - ⭐⭐⭐⭐⭐",
-              "content": "<p>Excelente atendimento, suporte sempre prestativo para resolver as minhas dúvidas com o produto.<\/p>"
+              "content": "<p style='background-color:tomato;' >Excelente atendimento, suporte sempre prestativo para resolver as minhas dúvidas com o produto.<\/p>"
             }
           },
           "b03b9f4e-971a-4300-bc0f-f71178423b55": {
             "type": "offer",
             "settings": {
               "title": "Andre Siqueira - ⭐⭐⭐⭐⭐",
-              "content": "<p>O produto de fato cumpre tudo o que promete, já recomendei para vários amigos e eles compraram também.<\/p>"
+              "content": "<p style='background-color:tomato;' >O produto de fato cumpre tudo o que promete, já recomendei para vários amigos e eles compraram também.<\/p>"
+            }
+          },
+          "971a-4300-bc0f-f71178423b55-b03b9f4e": {
+            "type": "offer",
+            "settings": {
+              "title": "Luciana Machado - ⭐⭐⭐⭐",
+              "content": "<p style='background-color:tomato;' >Show de Bola, Chegou tudo ok.<\/p>"
             }
           }
         },
