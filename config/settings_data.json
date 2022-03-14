@@ -126,7 +126,7 @@
         ],
         "settings": {
           "show_social_media": false,
-          "show_payment_icons": false,
+          "show_payment_icons": true,
           "show_locale_selector": false,
           "show_currency_selector": false,
           "show_cookie_bar": false,
@@ -382,7 +382,7 @@
           "text-with-icons-3"
         ],
         "settings": {
-          "show_section": true,
+          "show_section": false,
           "stack_mobile": false
         }
       },
