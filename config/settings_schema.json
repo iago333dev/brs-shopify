@@ -115,13 +115,13 @@
         "type": "color",
         "id": "header_text_color",
         "label": "Text",
-        "default": "#ffffff"
+        "default": "#a60707"
       },
       {
         "type": "color",
         "id": "header_light_text_color",
         "label": "Light text",
-        "default": "#ffffff"
+        "default": "#a60707"
       },
       {
         "type": "color",
